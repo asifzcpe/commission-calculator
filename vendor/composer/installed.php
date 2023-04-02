@@ -1,15 +1,24 @@
 <?php return array(
     'root' => array(
-        'name' => 'paysera/commission-task-skeleton',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'asif/commissopn-calculator',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'fc18703171c8e3a5363ec9b8c306dc0958014098',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
+        'asif/commissopn-calculator' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'fc18703171c8e3a5363ec9b8c306dc0958014098',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'composer/pcre' => array(
             'pretty_version' => '3.1.0',
             'version' => '3.1.0.0',
@@ -65,9 +74,9 @@
             'dev_requirement' => true,
         ),
         'friendsofphp/php-cs-fixer' => array(
-            'pretty_version' => 'v3.15.1',
-            'version' => '3.15.1.0',
-            'reference' => 'd48755372a113bddb99f749e34805d83f3acfe04',
+            'pretty_version' => 'v3.16.0',
+            'version' => '3.16.0.0',
+            'reference' => 'd40f9436e1c448d309fa995ab9c14c5c7a96f2dc',
             'type' => 'application',
             'install_path' => __DIR__ . '/../friendsofphp/php-cs-fixer',
             'aliases' => array(),
@@ -90,15 +99,6 @@
             'install_path' => __DIR__ . '/../nikic/php-parser',
             'aliases' => array(),
             'dev_requirement' => true,
-        ),
-        'paysera/commission-task-skeleton' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
-            'type' => 'project',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
-            'dev_requirement' => false,
         ),
         'phar-io/manifest' => array(
             'pretty_version' => '2.0.3',
