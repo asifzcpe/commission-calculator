@@ -4,7 +4,7 @@ A commission calculator that handles financial operations in CSV format for clie
 
 # Requirements
 
-### PHP > 8.0
+### PHP >= 8.0
 
 # How to start
 
