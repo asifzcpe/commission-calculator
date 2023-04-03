@@ -31,6 +31,7 @@ composer install
 ```bash
 composer test
 ```
+<img width="1459" alt="image" src="https://user-images.githubusercontent.com/22665561/229392362-aebfee55-9af8-441e-9e44-0da54245b2e1.png">
 
 ## 5. Show the calculated commissions
 
@@ -39,3 +40,5 @@ composer test
 ```bash
 php script.php input.csv
 ```
+<img width="1459" alt="image" src="https://user-images.githubusercontent.com/22665561/229392482-a2b780a1-24dc-49f9-8576-9231d9097949.png">
+
