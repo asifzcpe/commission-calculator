@@ -1,6 +1,6 @@
 # Commission Calculator
 
-### A commission calculator that handles financial operations in CSV format for clients, calculates commission fees based on defined rules, and rounds up fees to the decimal places of the currency used in the operation. For deposits, the fee is 0.03% of the deposit amount. For withdrawals, private clients can make up to 3 free withdrawals per week of up to 1000 EUR, after which a fee of 0.3% is applied. For business clients, the fee for all withdrawals is 0.5%. If the operation amount is not in Euros, it should be converted using the rates provided by the exchage rate api.
+#### A commission calculator that handles financial operations in CSV format for clients, calculates commission fees based on defined rules, and rounds up fees to the decimal places of the currency used in the operation. For deposits, the fee is 0.03% of the deposit amount. For withdrawals, private clients can make up to 3 free withdrawals per week of up to 1000 EUR, after which a fee of 0.3% is applied. For business clients, the fee for all withdrawals is 0.5%. If the operation amount is not in Euros, it should be converted using the rates provided by the exchage rate api.
 
 # Requirements
 
